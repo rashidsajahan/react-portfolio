@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.ec98111c.css",
+    "main.js": "/react-portfolio/static/js/main.0b6778c6.js",
+    "static/media/realestate.jpg": "/react-portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/workImg.jpeg": "/react-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/react-portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/node.png": "/react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/react-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/react-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.ec98111c.css.map": "/react-portfolio/static/css/main.ec98111c.css.map",
+    "main.0b6778c6.js.map": "/react-portfolio/static/js/main.0b6778c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec98111c.css",
+    "static/js/main.0b6778c6.js"
+  ]
+}
