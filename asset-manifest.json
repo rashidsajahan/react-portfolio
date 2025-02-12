@@ -1,24 +1,32 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.ec98111c.css",
-    "main.js": "/react-portfolio/static/js/main.0b6778c6.js",
-    "static/media/realestate.jpg": "/react-portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
-    "static/media/workImg.jpeg": "/react-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "main.css": "/react-portfolio/static/css/main.b8892fcb.css",
+    "main.js": "/react-portfolio/static/js/main.6d5faefb.js",
+    "static/media/php-icon.png": "/react-portfolio/static/media/php-icon.772dda46fbf5e8020f14.png",
+    "static/media/spotify.jpg": "/react-portfolio/static/media/spotify.d78f617be4c9e99f03dd.jpg",
+    "static/media/module-retriever.jpg": "/react-portfolio/static/media/module-retriever.05650c0e74cdb41715be.jpg",
+    "static/media/vehicle-project.jpg": "/react-portfolio/static/media/vehicle-project.aae54e6555cf4c5778c1.jpg",
     "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/react-portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/node.png": "/react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/theatre-seat-booking-system.jpg": "/react-portfolio/static/media/theatre-seat-booking-system.ce514dd14d40c8eff846.jpg",
     "static/media/mongo.png": "/react-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/movie-rental.jpg": "/react-portfolio/static/media/movie-rental.48aa7d4d65fa20762051.jpg",
+    "static/media/python-calculator.jpg": "/react-portfolio/static/media/python-calculator.cba24dfab71ad3f8deec.jpg",
+    "static/media/portfolio2.jpg": "/react-portfolio/static/media/portfolio2.723420b5a3530ced671a.jpg",
+    "static/media/island-link.jpg": "/react-portfolio/static/media/island-link.d5eaf71b84be81f2ecfb.jpg",
     "static/media/github.png": "/react-portfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/react-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/next-icon1.png": "/react-portfolio/static/media/next-icon1.ddbd033ed273fed63002.png",
     "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-portfolio/index.html",
-    "main.ec98111c.css.map": "/react-portfolio/static/css/main.ec98111c.css.map",
-    "main.0b6778c6.js.map": "/react-portfolio/static/js/main.0b6778c6.js.map"
+    "main.b8892fcb.css.map": "/react-portfolio/static/css/main.b8892fcb.css.map",
+    "main.6d5faefb.js.map": "/react-portfolio/static/js/main.6d5faefb.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec98111c.css",
-    "static/js/main.0b6778c6.js"
+    "static/css/main.b8892fcb.css",
+    "static/js/main.6d5faefb.js"
   ]
 }
