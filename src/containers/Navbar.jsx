@@ -9,7 +9,8 @@ function Navbar() {
   const [nav, setNav] = useState(false);
   const handeClick = () => setNav(!nav);
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#011343] text-slate-100">
+    // <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#011343] text-slate-100">
+    <div className="fixed w-full h-[80px] z-50 flex justify-between items-center px-4 bg-[#011343] text-slate-100">
       <img src={RLogo} alt="Logo" style={{ width: "60px" }} />
 
       {/* menu */}
