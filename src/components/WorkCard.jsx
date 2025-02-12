@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import { FaEye, FaRegEye, FaTimes } from "react-icons/fa";
-import { HiEye } from "react-icons/hi";
+import { FaRegEye, FaTimes } from "react-icons/fa";
 
 const WorkCard = ({ img, title, description }) => {
   const [isOpen, setIsOpen] = useState(false);

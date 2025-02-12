@@ -1,6 +1,4 @@
 import React from "react";
-import WorkImg from "../assets/projects/workImg.jpeg";
-import RealState from "../assets/projects/realestate.jpg";
 import ModuleRetriever from "../assets/projects/module-retriever.jpg";
 import MovieRental from "../assets/projects/movie-rental.jpg";
 import IslandLink from "../assets/projects/island-link.jpg";
