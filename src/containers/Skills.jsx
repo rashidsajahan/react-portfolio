@@ -12,7 +12,7 @@ import Java from "../assets/java.png";
 import Next from "../assets/next-icon1.png";
 import PHP from "../assets/php-icon.png";
 import SkillCard from "../components/SkillCard";
-
+// t
 const skills = [
   { img: HTML, title: "HTML" },
   { img: CSS, title: "CSS" },
