@@ -7,9 +7,9 @@ import { Link } from "react-scroll";
 
 function Navbar() {
   const [nav, setNav] = useState(false);
-  const handeClick = () => setNav(!nav);
+  const handleClick = () => setNav(!nav);
+
   return (
-    // <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#011343] text-slate-100">
     <div className="fixed w-full h-[80px] z-50 flex justify-between items-center px-4 bg-[#011343] text-slate-100">
       <img src={RLogo} alt="Logo" style={{ width: "60px" }} />
 
@@ -45,7 +45,7 @@ function Navbar() {
       </div>
 
       {/* hamburgur */}
-      <div onClick={handeClick} className="md:hidden z-10">
+      <div onClick={handleClick} className="md:hidden z-10">
         {!nav ? <FaBars /> : <FaTimes />}
       </div>
       {/* mobile-menu */}
@@ -57,27 +57,27 @@ function Navbar() {
         }
       >
         <li className="py-4 text-3xl">
-          <Link to="home" smooth={true} duration={500}>
+          <Link onClick={handleClick} to="home" smooth={true} duration={500}>
             Home
           </Link>
         </li>
         <li className="py-4 text-3xl">
-          <Link to="about" smooth={true} duration={500}>
+          <Link onClick={handleClick} to="about" smooth={true} duration={500}>
             About
           </Link>
         </li>
         <li className="py-4 text-3xl">
-          <Link to="skills" smooth={true} duration={500}>
+          <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
             Skills
           </Link>
         </li>
         <li className="py-4 text-3xl">
-          <Link to="work" smooth={true} duration={500}>
+          <Link onClick={handleClick} to="work" smooth={true} duration={500}>
             Experiences
           </Link>
         </li>
         <li className="py-4 text-3xl">
-          <Link to="contact" smooth={true} duration={500}>
+          <Link onClick={handleClick} to="contact" smooth={true} duration={500}>
             Contact Us
           </Link>
         </li>
